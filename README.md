@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react js, node js , expressjs, tailwind css**
 
-- 💬 Ask me about **node, express, js, html, js**
+- 💬 Ask me about **node, express, js, html, ejs**
 
 - 📫 How to reach me **adejaremarvel@gmail.com**
 
