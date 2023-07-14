@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/marveladejare" target="blank"><img src="https://img.shields.io/twitter/follow/marveladejare?logo=twitter&style=for-the-badge" alt="marveladejare" /></a> </p>
 
-- 🌱 I’m currently learning **react js, node js , expressjs, tailwind css**
+- 🌱 I’m currently learning **react js, node js , expressjs, tailwind css, Next js Rust**
 
-- 💬 Ask me about **node, express, js, html, ejs**
+- 💬 Ask me about **node, express, js, html, ejs, React js, Next js**
 
 - 📫 How to reach me **adejaremarvel@gmail.com**
 
