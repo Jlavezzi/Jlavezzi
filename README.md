@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adejare</h1>
-<h3 align="center"> A Web-developer, a Psychology student, and a bathroom singer i create music playlists too  ......</h3>
+<h3 align="left"> A Web-developer, a Psychology student, and a bathroom singer i create music playlists too  ......</h3>
 <p> I am open to new ideas and collaborations</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jlavezzi&label=Profile%20views&color=0e75b6&style=flat" alt="jlavezzi" /> </p>
