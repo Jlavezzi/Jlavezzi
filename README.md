@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/marveladejare" target="blank"><img src="https://img.shields.io/twitter/follow/marveladejare?logo=twitter&style=for-the-badge" alt="marveladejare" /></a> </p>
 
-- 🌱 I’m currently learning **react js, node js , expressjs, tailwind css, Next js Rust**
+- 🌱 I’m currently learning **react js, node js , expressjs, tailwind css, Next js Rust** (we never stop learning)
 
 - 💬 Ask me about **node, express, js, html, ejs, React js, Next js**
 
